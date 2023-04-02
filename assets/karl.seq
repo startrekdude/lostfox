@@ -1,0 +1,17 @@
+110 F conv.karl.met
+120 B conv.karl.complete 260
+130 P karl.msg_intro
+140 E karl 170
+150 P karl.msg_wrongname
+160 J 270
+170 P karl.msg_rightname
+180 E yellow 210
+190 P karl.msg_wrongcolor
+200 J 270
+210 P karl.msg_complete
+220 F conv.karl.complete
+230 G ORANGE
+240 G REWARD1
+250 J 270
+260 P karl.msg_no_twice
+270 N

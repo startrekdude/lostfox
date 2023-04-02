@@ -1,0 +1,47 @@
+=pablo.msg_meet
+Squirrel: AA! A stranger!
+Squirrel: This is EXCITINGGGG!
+Squirrel: I'm Pablo, and you?
+$(name): I'm $(name).
+Pablo: Nice to meet ya, $(name).
+=pablo.msg_hint
+Pablo: AAA! It's almost winter!
+Pablo: I've prepared though, I've buried all kinds of nuts!
+Pablo: But...
+Pablo: Usually by the time I wake up, a quarter of them are stolen...
+$(name): That's not good.
+Pablo: If only I had something smelly to mask their scent with...
+Pablo: That way, thieves couldn't steal my nuts!
+Pablo: AAAAAA BIG THOUGHTS
+$(name): Good idea.
+=pablo.msg_offer
+Pablo sniffs the air.
+Pablo: Hmmmmmm....
+Pablo: Is that rotting meat I smell? Do you have rotting meat?
+$(name): I do.
+Pablo: That would be PERFECT to hide my nuts!
+Pablo: I won't need my nest over the winter...
+Pablo: I'll trade you my nest for that rotting meat?
+=pablo.answer_yes
+Take the deal (lose rotting meat, gain deed to nest).
+=pablo.answer_no
+Don't take the deal (no effect).
+=pablo.msg_no_trade
+$(name): I'm not interested in making that trade right now.
+$(name): Sorry...
+Pablo: I guess I'll have to find another way to not starve.
+=pablo.msg_trade
+$(name): Yeah, I'll trade with you.
+$(name): My rotting meat for your nest.
+Pablo: Thankyouthankyouthankyou!
+Pablo: You're such a nice fox!
+$(name): I know.
+=pablo.msg_already_traded
+Pablo: $(name)! AMAZING to see you again!
+Pablo: I rubbed the rotting meat over my nut cache and now the scent
+Pablo: is TOTALLY masked!
+$(name): That's great.
+Pablo: Yeah, this way, a quarter of my nuts won't be stolen over the winter.
+Pablo: Which is what usually happens.
+$(name): Wow, a quarter. That's a lot.
+==

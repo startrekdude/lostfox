@@ -1,0 +1,35 @@
+=jayne.msg_meet
+(The blue jay doesn't seem to notice you right away)
+$(name): Hello. I'm $(name).
+Blue Jay: I'm Jayne. Pleased to make your acquaintance, $(name).
+=jayne.msg_problem
+You shiver a little.
+Jayne: Getting cold? No surprise. It's almost winter.
+$(name): Yeah..
+Jayne: I'm so worried. My mate is with egg and our nest isn't big enough...
+Jayne: I don't want my chicks to die...
+$(name): Yeah, that would suck.
+=jayne.choice_offer
+Offer the nest you got from Pablo to Jayne
+=jayne.choice_no_offer
+Don't offer the nest you got from Pablo to Jayne
+=jayne.msg_trade
+$(name): I have a nest, want it?
+Jayne: I-
+Jayne: You'd do that for me?
+Jayne: We just met...
+$(name): Yeah.
+$(name): I can't stand to see another living being suffer.
+Jayne: I-
+Jayne: Thank you so much! You're an incredible fox, $(name).
+Jayne: Nicest person I've met maybe ever.
+$(name): You're too kind.
+Jayne: No, that's you.
+Jayne: I don't have anything I can properly repay you with, but...
+Jayne: Take this toy truck.
+=jayne.msg_already_traded
+Jayne: Thank you again, $(name)!
+Jayne: Thanks to you me and my mate have a safe, warm place to raise our chicks.
+$(name): No problem.
+Jayne: I'm so glad there's still kindness in this world...
+==

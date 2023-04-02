@@ -1,0 +1,18 @@
+110 B conv.raccoon.met 140
+120 F conv.raccoon.met
+130 P raccoon.msg_meet
+140 B conv.raccoon.traded 270
+150 H FLUFFY 180
+160 P raccoon.msg_stuffed_animal
+170 J 290
+180 P raccoon.msg_offer_trade
+190 C raccoon.choice_trade 200 raccoon.choice_no_trade 250
+200 P raccoon.msg_do_trade
+210 T FLUFFY
+220 G APPLE
+230 F conv.raccoon.traded
+240 J 290
+250 P raccoon.msg_come_back
+260 J 290
+270 P raccoon.msg_nice_trade
+290 N

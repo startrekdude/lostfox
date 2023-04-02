@@ -1,0 +1,8 @@
+10 P epilogue.msg_intro
+20 C epilogue.choice_forest 30 epilogue.choice_hunter 50 epilogue.choice_town 70
+30 P epilogue.answer_forest
+40 J 80
+50 P epilogue.answer_hunter
+60 J 80
+70 P epilogue.answer_town
+80 P epilogue.msg_conclusion

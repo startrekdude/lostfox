@@ -1,0 +1,144 @@
+=endgame.intro
+You hear a noise from behind you, and turn around. You see Crowley!
+
+$(name): What are you doing here, Crowley?
+Crowley: Well, you see... I followed you here.
+$(name): Oh. Why?
+Crowley: Naive child.
+Crowley: Ever since we met in the two-leg hunter's den, I've wanted to eat you.
+Crowley: Foxes are delicious. My mouth waters at the very thought...
+Crowley: But then you told me you were looking for your family.
+Crowley: And, well, the only thing better than one fox to eat is four foxes to eat.
+$(name): I- I trusted you-
+Crowley: Yes, I'm very good at manipulating people.
+Crowley: Especially idiot fox babies like you!
+(Crowley does an evil laugh)
+Crowley: Now, which one of you should I eat first?
+
+You fight to hold back tears. You thought Crowley was your friend, but he'd
+been manipulating you from the start. You feel betrayed, broken, and hurt.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The old you would've cried, broken down. And been eaten, you suppose.
+But you've been through so much, all by yourself. You've grown.
+You won't back down. Your resolve hardens.
+
+It's time to fight. For everything you've ever cared about. For your home.
+For your life, and those of your family.
+
+You bare your teeth.
+=epilogue.msg_intro
+You've killed Crowley. It was a tough fight, but, in the end, you prevailed.
+
+As you think back on how far you've come, you feel a surge of pride.
+Since the tornado stole you away from your family, you've had a tough life.
+But you fought, and now you're back home.
+
+You travelled through a dark, dangerous, unknown forest.
+You outsmarted and tricked a bull moose in heat.
+You were kidnapped by a two-leg hunter, and lived to tell the tale.
+You made your way through a dangerous two-leg town, full of the unknown.
+
+And now...you're home, at last.
+
+Dad: Welcome home, $(name)!
+Mom: We were all worried about you!
+Chica: I'm glad you're home safe, big bro $(name)!
+Mom: We had the whole forest searching for you...
+Dad: I can see you've really grown up.
+$(name): I missed all of you so much.
+$(name): But, it was this moment I fought for.
+$(name): Being back here with you all.
+$(name): I love you.
+Mom: We love you too, $(name).
+Dad: And we're so proud of you!
+Chica: I saved all the best strawberries for when you got home!
+$(name): Aww, thanks, Chica!
+Mom: The forest just wasn't the same without our little $(name) underfoot.
+Mom: I'm gonna make a feast for everybody to celebrate your return!
+Dad: I'll hunt for the biggest, juiciest rabbits!
+$(name): Yay!
+Chica: So tell us all about your adventures, $(name).
+Chica: I wanna hear all about it!
+=epilogue.choice_forest
+Tell them about your journey through the dark forest
+=epilogue.choice_hunter
+Tell them about the two-leg hunter that kidnapped you
+=epilogue.choice_town
+Tell them about the two-leg town you travelled through
+=epilogue.answer_forest
+$(name): Well, the tornado blew me into a dark forest.
+$(name): The trees were really tall and blocked out most of the sun.
+Chica: Scary..
+$(name): To go forward I had to pass an electric fence.
+$(name): But it was too high to jump!
+Dad: But you obviously got past.
+Dad: My resourceful son.
+Mom: What did you do?
+$(name): I tricked a bull moose in heat into charging into it!
+Mom: That sounds dangerous...
+$(name): Oh, it was.
+Dad: Don't scare your mother.
+Dad: You know how she gets.
+$(name): Right, sorry.
+Mom: Well, the important thing is that you're home safe with us now.
+$(name): I'm glad to be back!
+=epilogue.answer_hunter
+$(name): A two-leg hunter kidnapped me and put me in a cage!
+Dad: Oh no!
+Chica: How did you get out of that?
+$(name): Well, that's where I met Crowley and he helped.
+$(name): He bit the hunter on a... sensitive part.
+Dad, wincing: Ouch..
+$(name): I didn't know he wanted to eat us...
+$(name): I'm sorry for leading him here.
+Chica: It's not your fault, big bro.
+Chica: You didn't know.
+Mom: We're just glad to have you home safe.
+$(name): Believe me, I'm glad to be home safe.
+(Dad pats your head)
+=epilogue.answer_town
+$(name): I had to travel through the two-leg town!
+Mom: I told you to never play there...
+Dad: Under the circumstances, I think we can let it slide.
+Mom: Haha, yeah.
+$(name): There was a jackhammer blocking the path.
+$(name): But I traced its energy back to the source and disabled it.
+Dad: Good job, $(name)!
+Dad: I'm proud of you.
+Chica: What else happened? I wanna hear EVERYTHING!
+$(name): There were dangerous pigeons, but I got past safely.
+$(name): Oh, and there was a nice two-leg park.
+$(name): I wish I could play there...
+Dad: Why don't you tell us all about it and me and the other fathers can
+Dad: maybe build our very own park in the forest?
+$(name): I'll do that!
+Mom: Sounds like it was pretty dangerous.
+$(name): Yeah. I was careful though, just like you always remind me to be.
+$(name): I'm so glad to be back home!
+=epilogue.msg_conclusion
+You and your family go back into your den.
+
+A few days later, you, your family, your friends, and all the forest animals have a feast
+in your honor. The mayor gives you a ceremonial acorn. Songs will be sung about your deeds
+for years to come.
+
+But none of that matters to you.
+
+You're just happy to be home.
+To be with your family.
+To be with your friends.
+
+Once again, all is right with the world.
+
+The End.
+=epilogue_clearing.short
+You're in a sun-kissed clearing with some of your friends.
+=epilogue_clearing.long
+Above you is a hole in the canopy, letting pure sunlight filter through.
+It feels warm on your face.
+
+The rocks here heat up in the afternoon.
+You've always enjoyed your afternoon foxnaps here.
+==

@@ -1,0 +1,36 @@
+=chloe.msg_intro
+$(name): Hey, Chloe.
+Chloe: Hi brother's friend $(name)!
+$(name): Haha, what's up?
+Chloe: I saw a two-leg dump truck!
+$(name): Is that right?
+Chloe: Yeah!
+Chloe: It was really loud and it looked powerful!
+Chloe: I wanna drive a dump truck some day...
+=chloe.choice_give
+Give Chloe the Tonka truck you got in the two-leg town
+=chloe.choice_no_give
+Don't give Chloe the Tonka truck you got in the two-leg town
+=chloe.msg_give
+$(name): How about today?
+Chloe: Hmm, $(name), what do you mean?
+$(name): I have a Tonka truck toy you could drive.
+$(name): Here, take it.
+Chloe: I- thankthankyouthankyou.
+Chloe: You're so cool!
+$(name): Thanks.
+Chloe: I'll show it to all my friends and play with it all the time
+Chloe: thank you so much $(name)!
+=chloe.msg_given
+Chloe: Hello again $(name)!
+$(name): Hey.
+Chloe: I love love LOVE the toy truck you gave me!
+$(name): I'm glad.
+Chloe: Oh and uh-
+Chloe: While you were gone, my brother Cody was worried about you.
+Chloe: He really missed you.
+$(name): I- did he really?
+Chloe: Yeah. He had trouble sleeping knowing you were gone.
+Chloe: Don't tell anyone I told you, but I think he likes you.
+$(name), blushing: O-oh-
+==

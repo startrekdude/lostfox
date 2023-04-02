@@ -1,0 +1,34 @@
+=enemy.rat.appear
+Hissss!
+Before you lies an overgrown, aggresive rat foaming at the mouth!
+It attacks!
+=enemy.rat.reload
+The rat charges closer to you!
+=enemy.rat.attack
+The rat jumps at you, teeth snarling, and bites! Then retreats to a safe distance.
+=enemy.rat.defend
+The rat curls up into a ball, its hardened fur impenetrable to attacks.
+=enemy.dog.appear
+As you summit the stairs, you see a massive, scary dog!
+Its collar is spiked, and you smell blood on its breath...
+=enemy.dog.reload
+The two-leg's dog gets ready to attack!
+=enemy.dog.attack
+The two-leg's dog charges you and rakes its savage claws against your body!
+=enemy.dog.defend
+The two-leg's dog dodges out of the way!
+=enemy.pigeon.appear
+Before you lies an angry pigeon! It's raring to go!
+=enemy.pigeon.reload
+The pigeon swoops in!
+=enemy.pigeon.attack
+The pigeon pecks at your body!
+=enemy.pigeon.defend
+The pigeon flies to the side and dodges!
+=enemy.crowley.reload
+Crowley coils his body in preparation for an attack!
+=enemy.crowley.attack
+Crowley strikes, trying to sink his savage fangs into your flesh! Then retreats.
+=enemy.crowley.defend
+Crowley bends his body, avoiding attacks!
+==

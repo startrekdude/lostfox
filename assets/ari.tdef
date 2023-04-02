@@ -1,0 +1,32 @@
+=ari.msg_intro
+$(name): Hey Ari!
+Ari: Hey, $(name). Glad you're back.
+$(name): What's up?
+Ari: Well, I found these two-leg marbles, but I think I'm missing one.
+Ari: I think they represent the four elements.
+Ari: I have this firey red one, this cloudy air one, and this brown earth one.
+Ari: I figure if I can get a sea-green water one, I can come up with a really
+Ari: cool marble game!
+$(name): Yeah, you always come up with the best games.
+$(name): An elemental marble game sounds really fun!
+=ari.choice_give
+Give Ari the sea-green marble you found in the dark forest
+=ari.choice_no_give
+Don't give Ari the sea-green marble you found in the dark forest
+=ari.msg_give
+$(name): Hey...
+Ari: Yeah?
+$(name): I found a sea-green marble just like that!
+$(name): While I was away...
+Ari: Wow, really?
+Ari: Can I have it? I promise I'll come up with a really cool game!
+$(name): Only if you promise to play it with me.
+Ari: Haha, yeah!
+=ari.msg_given
+Ari: I'm still thinking of a four elements themed game we can play with the marbles.
+Ari: I have a few ideas, but I wanna make it perfect.
+$(name): You always make the best games, Ari!
+Ari: Heh... I try, yeah.
+Ari: Connor the badger has been giving me game design tips.
+$(name): Oooh, cool! Connor is a really good teacher.
+==

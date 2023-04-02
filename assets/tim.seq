@@ -1,0 +1,16 @@
+110 B conv.tim.met 160
+120 F conv.tim.met
+130 P tim.msg_intro
+140 J 160
+150 P tim.msg_other_question
+160 C tim.ask_crowley 170 tim.ask_stuff 190 tim.ask_end 260
+170 P tim.answer_crowley
+180 J 150
+190 B conv.tim.given 240
+200 F conv.tim.given
+210 P tim.answer_stuff
+220 G GRAPEFRUIT
+230 J 150
+240 P tim.msg_given
+250 J 150
+260 N

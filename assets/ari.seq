@@ -1,0 +1,11 @@
+110 B conv.ari.complete 200
+120 P ari.msg_intro
+130 H REWARD1 150
+140 J 210
+150 C ari.choice_give 160 ari.choice_no_give 210
+160 F conv.ari.complete
+170 T REWARD1
+180 P ari.msg_give
+190 J 210
+200 P ari.msg_given
+210 N

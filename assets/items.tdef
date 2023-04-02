@@ -1,0 +1,85 @@
+=obj.fluffy.short
+Your stuffed monkey, Fluffy.
+=obj.fluffy.long
+Your stuffed monkey Fluffy.
+Your mother found it for you when you were just a month old.
+You've slept with it every night since then.
+It's looking a bit beat up now...
+
+Looking at it reminds you of how much you love your family.
+=obj.brass_knuckles.short
+A pair of brass knuckles.
+=obj.brass_knuckles.long
+A pair of brass knuckles.
+They look like they'd fit you, and pack quite a punch.
+
+You should equip them.
+=obj.gun.short
+A gun.
+=obj.gun.long
+An old hunting shotgun. It's a shame you don't have any bullets...
+It has "Chekhov" written on the side. Perhaps that's the name of its
+former owner.
+=obj.whetstone.short
+A whetstone (used to sharpen things).
+=obj.whetstone.long
+A round, white whetstone used to sharpen things.
+
+If you sharpened your claws on it, you'd be more dangerous.
+You'd rather be soft, but the world isn't.
+
+You should equip it.
+=obj.poison.short
+A vial of poison.
+=obj.poison.long
+A vial of poison of unknown pedigree. It has a skull and crossbones insignia painted
+on the side.
+
+You'd probably be pretty dangerous if you dipped your claws in it...
+Just be careful not to get any in your blood.
+=obj.orange.short
+An orange.
+=obj.orange.long
+A juicy, round orange. It looks delicious and restorative...
+=obj.grapefruit.short
+A grapefruit.
+=obj.grapefruit.long
+A yellow, elliptical grapefruit. It looks acidic, yet restorative...
+=obj.apple.short
+An apple.
+=obj.apple.long
+A well-formed, round apple. It looks yummy and restorative...
+=obj.meat.short
+Rotting meat.
+=obj.meat.long
+Rotting meat, probably from two-leg garbage. It smells disgusting...
+It's covered in maggots.
+
+Why did you pick this up, again?
+=obj.deed.short
+A deed to a nest in the two-leg town near Astoria.
+=obj.deed.long
+It's a large piece of oak bark with glyphs written on it in Fox Language.
+Its bearer is the legal owner of a nest in the two-leg town near Astoria.
+
+It's a shame you can't climb trees...
+=obj.reward1.short
+A sea-green marble.
+=obj.reward1.long
+A small, sea-green marble.
+If you turn it in the light, it almost looks like waves dance across its surface.
+=obj.reward2.short
+A small white elephant toy.
+=obj.reward2.long
+A model of an elephant, carved from the white stone alabaster.
+It appears to be intended as a children's toy.
+
+The details of the carving are meticulous. You wonder who crafted it.
+=obj.reward3.short
+A yellow tonka truck.
+=obj.reward3.long
+A yellow tonka truck. You would have had a lot of fun playing with this when you were younger.
+Toys were hard to come by in the forest.
+
+You miss playing construction worker with all your friends...
+==

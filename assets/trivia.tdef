@@ -1,0 +1,73 @@
+=trivia.msg_meet
+Cat: Hello adventurer!
+Cat: Welcome to the gazebo of Honeywood!
+Cat: I jest, I jest.
+Cat: I'm Alex, what's your name?
+$(name): I go by $(name).
+Alex: Nice to meet you, $(name)!
+=trivia.msg_welcome_back
+Alex: Welcome back, $(name)!
+Alex: Always nice for old eyes like mine to see a young face.
+=trivia.msg_try
+Alex: Would you like to try my trivia game? If you win, I have a reward for you.
+=trivia.answer_yes
+Try the trivia game.
+=trivia.answer_no
+Don't try the trivia game.
+=trivia.msg_come_back
+$(name): Sorry, I don't want to.
+Alex: That's all right!
+Alex: Offer still stands, if you ever change your mind.
+=trivia.ask_first
+$(name): Okay, I'll try your trivia game.
+$(name): Could be fun.
+Alex: Wonderful! Your first question is:
+Alex: Which of the following species of cats is the biggest?
+Alex: Common housecat, bobcat, or lion.
+=trivia.answer1_1
+Common housecat
+=trivia.answer1_2
+Bobcat
+=trivia.answer1_3
+Lion
+=trivia.ask_second
+Alex: Correct! Lions are indeed the biggest of those cats.
+$(name): I thought so...
+Alex: Your next question is...
+Alex: Where might you find an elephant?
+=trivia.answer2_1
+Australia
+=trivia.answer2_2
+Cameroon, Africa
+=trivia.answer2_3
+Canada, North America
+=trivia.ask_third
+Alex: Correct! I see forest school taught you well.
+$(name): Thanks.
+Alex: One final question, for the ultimate prize.
+$(name): I'm ready.
+Alex: What percentage of squirrels' buried nuts are stolen during winter?
+Alex: Answer as a number composed entirely of digits, no percent sign needed!
+=trivia.msg_wrong
+Alex: Ah, I'm afraid that's incorrect.
+$(name): Shoot.
+Alex: Better luck next time.
+Alex: Feel free to try again!
+=trivia.msg_already_won
+Alex: Wait a minute...
+Alex: You've already won at my trivia game.
+Alex: I don't have another prize for you.
+$(name): Worth a shot, I suppose.
+Alex: Very industrious indeed.
+Alex: Go forth and seize the day!
+=trivia.msg_win
+Alex: Is 25 your final answer?
+$(name): Yes.
+Alex: That is...                                             
+Alex: CORRECT!
+Alex: Good job!
+$(name): I knew I could do it...
+Alex: You beat my trivia game.
+Alex: I'm sure you're well prepared for any other challenges that lie before you.
+Alex: Perhaps your reward will help.
+==

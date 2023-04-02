@@ -1,0 +1,19 @@
+110 B conv.owl.met 150
+120 P owl.msg_meet
+130 F conv.owl.met
+140 J 180
+150 P owl.msg_see_again
+160 J 180
+170 P owl.msg_other_questions
+180 B conv.karl.met 200
+190 C owl.ask_home 210 owl.ask_danger 230 owl.ask_advice 250 owl.ask_end 290
+200 C owl.ask_home 210 owl.ask_danger 230 owl.ask_advice 250 owl.ask_karl 270 owl.ask_end 290
+210 P owl.answer_home
+220 J 170
+230 P owl.answer_danger
+240 J 170
+250 P owl.answer_advice
+260 J 170
+270 P owl.answer_karl
+280 J 170
+290 N

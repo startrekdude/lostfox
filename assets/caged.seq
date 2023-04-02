@@ -1,0 +1,10 @@
+110 P caged.msg_intro
+120 B conv.family.chose_insect 150
+130 P caged.msg_coyo
+140 J 160
+150 P caged.msg_insect
+160 P caged.msg_plan
+170 C caged.alt_slither 190 caged.alt_force 180
+180 P caged.msg_force
+190 P caged.msg_escape
+200 R home_basement

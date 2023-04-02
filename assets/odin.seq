@@ -1,0 +1,11 @@
+110 B conv.odin.complete 200
+120 P odin.msg_intro
+130 H REWARD2 150
+140 J 210
+150 C odin.choice_give 160 odin.choice_no_give 210
+160 F conv.odin.complete
+170 T REWARD2
+180 P odin.msg_give
+190 J 210
+200 P odin.msg_given
+210 N

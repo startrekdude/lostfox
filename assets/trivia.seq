@@ -1,0 +1,24 @@
+110 B conv.trivia.met 150
+120 F conv.trivia.met
+130 P trivia.msg_meet
+140 J 160
+150 P trivia.msg_welcome_back
+160 P trivia.msg_try
+170 C trivia.answer_yes 200 trivia.answer_no 180
+180 P trivia.msg_come_back
+190 J 340
+200 P trivia.ask_first
+210 C trivia.answer1_1 260 trivia.answer1_2 260 trivia.answer1_3 220
+220 P trivia.ask_second
+230 C trivia.answer2_1 260 trivia.answer2_2 240 trivia.answer2_3 260
+240 P trivia.ask_third
+250 E 25 280
+260 P trivia.msg_wrong
+270 J 340
+280 B conv.trivia.item_given 330
+290 F conv.trivia.item_given
+300 P trivia.msg_win
+310 G POISON
+320 J 340
+330 P trivia.msg_already_won
+340 N

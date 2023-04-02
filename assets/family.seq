@@ -1,0 +1,8 @@
+10 P family.msg1
+20 C family.choice1.1 30 family.choice1.2 60
+30 P family.alt1
+40 F conv.family.chose_insect
+50 J 70
+60 P family.alt2
+70 P family.msg2
+80 F conv.family.complete

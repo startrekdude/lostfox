@@ -1,0 +1,37 @@
+=obj.moss_bed.long
+Your father lovingly crafted this bed from moss for you before you were born.
+It's soft, made of moss, and green.
+=obj.sleeping_moose.long
+It's bigger than any animal you've seen before with antlers a metre long.
+It could easily kill you if it wanted...it's scary.
+It snores loudly as it sleeps.
+=obj.moose.long
+It's bigger than any animal you've seen before with antlers a metre long.
+It looks bloodthirsty!
+
+You don't have time to examine it, run!
+=obj.electric_fence.long
+An electric fence. It's more than 18 times your height.
+You see skull and crossbones signs dotted along it.
+
+It would take a pretty strong force to destroy it...
+=obj.safe.long
+It's a large safe. It looks strong, and impossible to penetrate using brute force.
+
+On the front panel are 8 lights with switches beneath them.
+=obj.jackhammer.long
+It's an active jackhammer. It's powerful enough to crush you into paste...
+
+A thick, orange cord leaves it and goes north.
+You wonder if it's powering it somehow...
+=obj.dead_jackhammer.long
+It's an inactive jackhammer. If it was active, it'd be powerful enough to crush you into paste.
+
+A thick, orange cord leaves it and goes north.
+You know it used to power it.
+=obj.shed.long
+It's a large shed. It's painted green.
+The paint is flaking.
+
+The shed door is locked, and you're too big to crawl under it.
+==

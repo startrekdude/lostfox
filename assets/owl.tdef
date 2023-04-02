@@ -1,0 +1,69 @@
+=owl.msg_meet
+Owl: HOOT!
+Owl: Hello traveler!
+Owl: I don't believe I've seen you around here before.
+Owl: You look scared... Is everything okay?
+$(name): No...
+Owl: Well maybe I can help, or at least be a friendly ear. Hoot!
+Owl: My name is Tim Sandaele.
+$(name): I'm $(name).
+Tim: Well met, well met.
+Tim: Anything I can help you with?
+=owl.msg_see_again
+Tim: Ah, $(name)!
+Tim: Always nice to see a friendly face. Hoot!
+Tim: What's on your mind?
+=owl.msg_other_questions
+Tim: Do you have any other questions for me?
+=owl.ask_home
+Ask about how to get to the forest of Astoria
+=owl.ask_danger
+Ask about any dangers in this forest
+=owl.ask_advice
+Ask for any advice
+=owl.ask_karl
+Ask for the name of that weird woodpecker you saw
+=owl.ask_end
+No more questions
+=owl.answer_home
+Tim: Astoria... yes, the name sounds familiar
+Tim: Is that your home, $(name)?
+$(name): Yes...
+$(name): I'm trying to get back there so I can see my family again
+$(name): I'm not sure how to survive without them
+Tim: Hoot!
+Tim: You're in luck!
+Tim: I know where Astoria is, and it's not too far from here!
+Tim: Just keep going along the forest path
+Tim: You'll see a river, and a bridge. Cross the river
+Tim: You'll see a two-leg road
+Tim: Turn left, and follow the road to a town
+Tim: Astoria is just through the town! Hoot!
+$(name): Follow path... Cross river... Follow road... Through town...
+$(name): Then home!
+$(name): I'm glad it isn't further. I can remember that!
+$(name): Thanks, Tim!
+=owl.answer_danger
+Tim: Yeah, this is a pretty dangerous forest
+Tim: It's a real shame you can't fly...
+Tim: And.. No, you're too heavy for me to carry
+Tim: Keep your wits about you and you should be okay
+Tim: Be on the lookout for rats. They're pretty aggressive
+$(name): Rats are so scary...
+Tim: I find them delicious
+Tim: It's also mating season, so the bull moose are aggressive
+Tim: Or is that mooses? Meese?
+$(name): I did always find that plural hard.
+Tim: I hope you make it through okay
+$(name): I'll do my best!
+$(name): My life depends on it...
+=owl.answer_advice
+Tim: Advice, huh?
+Tim: Hmmm....                       
+Tim: Yeah, I got something for you
+Tim: Never chase a man over a cliff. Hoot!
+$(name): I- I'll make sure to remember that, thank you...
+=owl.answer_karl
+Tim: His name is Karl. Hoot!
+Tim: I think he's a bit crazy
+==

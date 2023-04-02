@@ -1,0 +1,11 @@
+110 B conv.chloe.complete 200
+120 P chloe.msg_intro
+130 H REWARD3 150
+140 J 210
+150 C chloe.choice_give 160 chloe.choice_no_give 210
+160 F conv.chloe.complete
+170 T REWARD3
+180 P chloe.msg_give
+190 J 210
+200 P chloe.msg_given
+210 N

@@ -1,0 +1,40 @@
+=post_battle.intro
+Crowley, gagging: Blech. That's going to be a hard taste to get out of my mouth.
+Crowley: We do what we must, though, don't we, kit?
+$(name), stunned: I... I suppose...
+Crowley: Yes... All living our nature.
+Crowley: I'm glad that's over now though.
+Crowley: You're free now, to go and find your family.
+=post_battle.other_questions
+Crowley: Have any other questions for me, little one?
+=post_battle.ask_pants
+Ask what it was like slithering up a two-leg's pants
+=post_battle.ask_plans
+Ask about what Crowley plans to do next
+=post_battle.ask_done
+No more questions
+=post_battle.answer_pants
+$(name): What was it like slithering up a two-leg's pants?
+Crowley: Dark.
+Crowley: And hairy.
+Crowley: Overall, not an experience I'd recommend.
+Crowley: But... It was important for you to find your family, little one.
+Crowley: A noble goal indeed.
+$(name): Thank you so much.
+=post_battle.answer_plans
+$(name): What are your plans going forward?
+Crowley: Eat some delicious...
+Crowley: Mice. And rats.
+Crowley: Circle of life.
+$(name): I wish I was big enough to hunt rodents by myself...
+$(name): I'm still small enough for them to be able to hurt me.
+=post_battle.outro
+$(name): Thank you so much for rescuing me!
+$(name): And being my friend...
+Crowley: My pleasure, little one.
+
+You feel glad that there's still good people in the world.
+Tears well up in your eyes when you think of everything Crowley did for you...
+
+You're close to home now.
+==

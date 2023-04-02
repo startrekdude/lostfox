@@ -1,0 +1,56 @@
+=caged.msg_intro
+$(name): Hey!
+$(name): Hey you!
+Snake, drowsily: Yes?
+$(name): We need to escape!
+Snake: We do seem to share a predicament...
+Snake: What's your name, kit?
+$(name): I'm $(name).
+Snake: $(name)... that's a nice name.
+Snake: My name is Crowley.
+$(name): Do you think we can escape?
+$(name): I really want to see my family again...
+Crowley: Your family, little one?
+$(name): Yeah, Mom, Dad, and my little sister Chica.
+Crowley: How sweet.
+=caged.msg_insect
+$(name): I felt safe exploring the woods knowing I could go
+$(name): home to my family every night.
+$(name): I loved finding cool bugs!
+$(name): One time I found a really big dragonfly...
+=caged.msg_coyo
+$(name): Yeah, and my friend Cody.
+$(name): He's this really cool coyote.
+$(name): He had the cutest smile...
+$(name): I was able to make him blush all the time...
+=caged.msg_plan
+(You fight to hold back tears)
+$(name): I miss that life...
+(Your resolve hardens)
+$(name): We need to escape.
+Crowley: What an excellent idea, kit!
+Crowley: I think I could probably slither-squeeze through the bars.
+Crowley: And I can open your cage from the outside.
+=caged.alt_slither
+Tell Crowley to slither out of his cage and open yours from the outside.
+=caged.alt_force
+Throw yourself against the wall of your cage until it falls over and breaks.
+=caged.msg_force
+$(name): I'm going to throw myself against the wall of my cage until it falls over and breaks.
+Crowley: No, don't do that, little one.
+Crowley: The noise will summon the two-leg.
+$(name): In that case...
+=caged.msg_escape
+$(name): You should slither out of your cage and open mine from the outside.
+Crowley: Much obliged, kit!
+
+Crowley slithers through the bars of his cage. It's a tight squeeze.
+He slithers over to your cage and undoes the locking mechanism from the outside.
+
+You're free, but still in the proverbial belly of the beast...
+
+$(name): Thank you!
+Crowley: Anything for a fox that just wants to see its family...
+Crowley: Let's escape together.
+‍
+==

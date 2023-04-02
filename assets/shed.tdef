@@ -1,0 +1,47 @@
+=shed.msg_intro
+In front of you, you see Crowley!
+
+$(name): Hi, Crowley.
+Crowley: Hello, little one.
+Crowley: How goes the journey to your family?
+$(name): Not well.
+$(name): The path forward is blocked by a jackhammer...
+Crowley: How truly tragic.
+Crowley: Observe the cord on the ground, kit.
+Crowley: Perhaps the jackhammer is powered from this shed?
+$(name): That would make sense.
+=shed.msg_other_questions
+Crowley: Have any other questions for me, kit?
+=shed.ask_why
+Ask Crowley what he's doing here
+=shed.ask_slither
+Ask Crowley to slither under the shed door and try to turn off the power
+=shed.answer_why
+$(name): What are you doing here, anyways?
+Crowley: Coincidence!
+Crowley: I was hunting rats.
+Crowley: Yummy, delicious, rats.
+$(name): That makes sense.
+$(name): I hope you find some.
+Crowley: How sweet of you to say, little one.
+=shed.answer_slither
+$(name): Can you slither under the sled door and try and turn off the power?
+Crowley: What an excellent idea, kit!
+Crowley: I'm glad to help you, if it means you can be reunited with your fox family.
+$(name): Thanks. Means a lot.
+
+Crowley slithers under the shed door.
+. . . . . . . . . . . . . . . . . . .
+You hear a loud "CLICK". It reminds you of the cracking of ice at the end of a long winter.
+Crowley slithers back out.
+
+Crowley: I flipped a switch.
+Crowley: Hopefully the path is clear now.
+$(name): Thanks so much for all your help!
+$(name): I don't know how I can ever repay you...
+Crowley: Your thanks is all I need.
+Crowley: I really do hope you find your family, kit.
+
+You're so glad you met Crowley... He's been so nice to you.
+You're glad the world can still be soft sometimes...
+==

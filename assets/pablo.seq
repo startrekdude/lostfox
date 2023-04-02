@@ -1,0 +1,18 @@
+110 B conv.pablo.met 140
+120 F conv.pablo.met
+130 P pablo.msg_meet
+140 B conv.pablo.traded 270
+150 P pablo.msg_hint
+160 H ROTTING_MEAT 180
+170 J 280
+180 P pablo.msg_offer
+190 C pablo.answer_yes 220 pablo.answer_no 200
+200 P pablo.msg_no_trade
+210 J 280
+220 F conv.pablo.traded
+230 P pablo.msg_trade
+240 T ROTTING_MEAT
+250 G DEED_OF_NEST
+260 J 280
+270 P pablo.msg_already_traded
+280 N

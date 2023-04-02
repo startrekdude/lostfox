@@ -1,0 +1,43 @@
+=raccoon.msg_meet
+Raccoon: Hey there!
+Raccoon: I'm Rocco, what's your name?
+$(name): I'm $(name).
+$(name): Nice to meet you.
+=raccoon.msg_stuffed_animal
+Rocco: I wish I had a stuffed animal to hold at night.
+Rocco: But there aren't any around these parts.
+=raccoon.msg_offer_trade
+Rocco: Woah!
+Rocco: Is that a stuffed monkey you have there?
+Rocco: I've always wanted one of those!
+$(name): Is that right?
+Rocco: Yeah!
+Rocco: Tell you what, I'll trade you for it.
+Rocco: Your stuffed monkey for my apple.
+Rocco: It's delicious and restorative!
+Rocco: Do we have a deal or what?
+$(name): I'll consider it...
+
+(What should I do?)
+(Fluffy's been with me ever since I was a baby...)
+(But, an apple would be pretty good for my health...)
+=raccoon.choice_trade
+Trade Fluffy for an apple (Lose fluffy, get apple).
+=raccoon.choice_no_trade
+Don't trade (no effect).
+=raccoon.msg_do_trade
+$(name): Ok. I'll make the trade.
+Rocco: Yeah! I was hoping you'd say that!
+Rocco: No take backs, of course.
+$(name): Of course.
+$(name): His name is Fluffy.
+$(name): Take good care of him...
+=raccoon.msg_come_back
+$(name): No.
+Rocco: That's too bad.
+Rocco: Come back if you change your mind, my offer's still good.
+=raccoon.msg_nice_trade
+Rocco: Thanks for trading with me!
+Rocco: I hope you enjoy the apple as much as I enjoy Fluffy.
+Rocco: Remember, no take backs.
+==

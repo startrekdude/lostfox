@@ -1,0 +1,34 @@
+=odin.msg_intro
+$(name): Hey Odin!
+Odin: Hi there, $(name). I'm happy you made it back alive.
+$(name): What's up?
+Odin: I've been learning about elephants.
+Odin: Did you know they're the biggest animal?
+$(name): No way! Even bigger than bears?
+Odin: Yeah!
+Odin: And they have these long trunks they drink water with!
+Odin: I wish they lived here...
+=odin.choice_give
+Offer Odin the alabaster elephant figurine you got from the two-leg hunter's house
+=odin.choice_no_give
+Don't offer Odin the alabaster elephant figurine you got from the two-leg hunter's house
+=odin.msg_give
+$(name): Hmm...
+$(name): I might have the next best thing.
+$(name): On my journey, I found a carved figure of an elephant.
+Odin: Wow, really?
+$(name): Indeed.
+$(name): Want it?
+Odin: You'd give it to me? Wow, thanks, $(name)!
+Odin: I'll treasure it forever!
+$(name): Haha, no problem.
+$(name): Anything for a friend!
+=odin.msg_given
+Odin: Thanks again for the carved elephant, $(name).
+Odin: It's really cool!
+$(name): I'm glad you enjoy it.
+Odin: I really do.
+Odin: Look at its trunk, see?
+Odin: I wonder why foxes don't have trunks..
+$(name): I'd look pretty silly with a trunk.
+==

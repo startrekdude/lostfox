@@ -1,0 +1,15 @@
+110 B conv.jayne.met 140
+120 F conv.jayne.met
+130 P jayne.msg_meet
+140 B conv.jayne.traded 240
+150 P jayne.msg_problem
+160 H DEED_OF_NEST 180
+170 J 250
+180 C jayne.choice_offer 190 jayne.choice_no_offer 250
+190 F conv.jayne.traded
+200 P jayne.msg_trade
+210 T DEED_OF_NEST
+220 G REWARD3
+230 J 250
+240 P jayne.msg_already_traded
+250 N

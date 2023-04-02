@@ -1,0 +1,7 @@
+10 P shed.msg_intro
+20 J 40
+30 P shed.msg_other_questions
+40 C shed.ask_why 50 shed.ask_slither 70
+50 P shed.answer_why
+60 J 30
+70 P shed.answer_slither

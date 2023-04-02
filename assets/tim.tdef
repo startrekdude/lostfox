@@ -1,0 +1,38 @@
+=tim.msg_intro
+$(name): Hey Tim!
+$(name): Nice to see you here.
+Tim: Nice to see you too, $(name).
+Tim: I was worried about you so I followed your progress...
+Tim: I was concerned when the hunter shot you with a tranq dart but
+Tim: it looks like you made it out okay.
+$(name): Thanks for looking out for me!
+$(name): Crowley helped me escape.
+Tim: I can see that.
+Tim: What a brave snake.
+=tim.msg_other_question
+Tim: Do you have any other questions for me?
+=tim.ask_crowley
+Ask about Crowley
+=tim.ask_stuff
+Ask if Tim has anything for me
+=tim.ask_end
+No more questions
+=tim.answer_crowley
+$(name): Do you know anything about Crowley?
+Tim: No, can't say I do.
+Tim: He might come from far away.
+Tim: Sometimes the two-legs move people a long way from home.
+$(name): Like a tornado...
+Tim: An apt comparison.
+Tim: Both two-legs and tornados are incredibly destructive to the natural world.
+$(name): I've noticed...
+=tim.answer_stuff
+$(name): Do you have anything for me?
+Tim: Thanks for reminding me!
+Tim: I brought this grapefruit from the forest for you.
+Tim: It might give you the "pick-me-up" of energy you need to get home.
+$(name): Wow, thanks, Tim!
+$(name): That's really thoughtful of you!
+=tim.msg_given
+Tim: I had a grapefruit for you, but I already gave it to you.
+==

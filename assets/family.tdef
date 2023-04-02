@@ -1,0 +1,32 @@
+=family.msg1
+Mom: Make sure not to bite off more than you can chew, I don't want you-
+Chica: I KNOW Mom. SO anyways today I went to the stream and I went swimming
+Chica: and I saw a fish and I tried to sneak up on it to catch it
+Chica: but it saw me and swam away so I couldn't catch it but next time
+Chica: I know I'll get it because I've been practicing with paint and so anyways-
+Dad: That's wonderful, sweetie, but why don't you give your brother a chance to talk?
+Mom: That's right, how was your day $(name)?
+=family.choice1.1
+Tell them about the cool bug you saw
+=family.choice1.2
+Tell them about your crush on the coyote boy next door
+=family.alt1
+$(name): I saw this cool bug while I was playing near the stream
+$(name): It was really big and had these orange and black wings
+Dad: I think it might've been a butterfly
+Dad: Rare to see those this time of year
+Mom: That's so cool! I hope you were being safe on the rocks
+=family.alt2
+$(name): Me and Cody went for a picnic on that grassy hill up north
+$(name): He's so dreamy...
+$(name): I think I'm falling in love, I hope he likes me back
+Dad: Awww I remember when I first met your mother..
+Mom: Now make sure to stay safe, don't fall in love too fast, you could get hurt
+=family.msg2
+$(name), exasperatedly: Yes, Mom. You can be so overprotective at times
+You hear a loud CRACK of thunder and gusts of wind against the den roof.
+Dad: My, the wind sure is picking up, isn't it?
+Mom: Worst storm I've seen in my entire life
+Dad: River'll be running high tomorrow
+Dad: Glad we dug out the den in such a way that it won't flood
+==

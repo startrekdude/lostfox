@@ -1,0 +1,9 @@
+10 P post_battle.intro
+20 J 40
+30 P post_battle.other_questions
+40 C post_battle.ask_pants 50 post_battle.ask_plans 70 post_battle.ask_done 90
+50 P post_battle.answer_pants
+60 J 30
+70 P post_battle.answer_plans
+80 J 30
+90 P post_battle.outro
